@@ -1,6 +1,6 @@
 # embalm
 
-auto music archiver
+Archives SoundCloud, YouTube and Bandcamp uploads
 
 **Source:** https://git.thromb.us/eve/embalm
 **Mirror:** https://codeberg.org/hemepanel/embalm
